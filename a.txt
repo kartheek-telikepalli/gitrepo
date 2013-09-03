@@ -1,1 +1,1 @@
-a.txt version 1 ready for release
+a.txt changed for the bug fix when the two branches are in full speed with their coding on a and b
