@@ -1,1 +1,1 @@
-a.txt version 1 before branching started
+a.txt version 1 ready for release
